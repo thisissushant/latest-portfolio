@@ -11,7 +11,7 @@ export const Bio = {
     "I am Sushant, a motivated and innovative full-stack web developer. With a solid foundation in both front-end and back-end technologies, including HTML, CSS, JavaScript, Node.js, and MongoDB, I am eager to contribute fresh ideas and coding skills to the world of web development",
   github: "https://github.com/thisissushant",
   resume:
-    "https://drive.google.com/file/d/1iHK42Z4rgWfZY8mCwk9BrXtuNGGiXpoK/view?usp=drive_link",
+    "https://drive.google.com/file/d/1WKRE-znFaPKHZ5ETzNPL19Xz56YfAWYG/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sushantbibhu/",
   twitter: "https://twitter.com/sushantbibhu",
 };
